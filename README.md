@@ -35,7 +35,7 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 1.  **Clone atau Unduh Proyek**
     ```bash
     # Jika Anda menggunakan Git, clone repositori ini
-    git clone [https://github.com/Lanmaulana/pemutar-musik](https://github.com/Lanmaulana/pemutar-musik)
+    git clone https://github.com/Lanmaulana/pemutar-musik.git
     ```
     Atau cukup unduh file ZIP dan ekstrak.
 
